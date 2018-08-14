@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/chumpon-asaneerat/node-riot-rater#readme",
   "dependencies": {
-    "npm": "^6.3.0"
+    "expres": "0.0.5",
+    "npm": "^6.3.0",
+    "riot": "^3.11.1"
   }
 }
