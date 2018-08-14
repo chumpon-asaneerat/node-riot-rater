@@ -1,0 +1,22 @@
+{
+  "name": "node-riot-rater",
+  "version": "1.0.0",
+  "description": "Riotjs UI for rater web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chumpon-asaneerat/node-riot-rater.git"
+  },
+  "author": "Chumpon Asaneerat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chumpon-asaneerat/node-riot-rater/issues"
+  },
+  "homepage": "https://github.com/chumpon-asaneerat/node-riot-rater#readme",
+  "dependencies": {
+    "npm": "^6.3.0"
+  }
+}
